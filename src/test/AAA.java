@@ -8,6 +8,8 @@ public class AAA {
 		System.out.println("更新1");
 		System.out.println("更新2");
 		System.out.println("更新3");
+		System.out.println("新的分支  new branch");
+		
 	
 	}
 
