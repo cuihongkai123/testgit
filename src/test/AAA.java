@@ -5,15 +5,16 @@ public class AAA {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("aaaaa");
-		System.out.println("¸üĞÂ1");
-		System.out.println("¸üĞÂ2");
-		System.out.println("¸üĞÂ3");
-		System.out.println("ĞÂµÄ·ÖÖ§  new branch");
-		System.out.println("Ö÷ÏßÌí¼Ó");
-		System.out.println("·ÖÖ§ Ìí¼Ó");
-		System.out.println("·ÖÖ§ ÔÙÌí¼Ó");
-		System.out.println("·ÖÖ§ ÔÙÔÙÌí¼Ó");
-		System.out.println("Ö÷Ïß ÔÙÌí¼Ó");
+		System.out.println("æ›´æ–°1");
+		System.out.println("æ›´æ–°2");
+		System.out.println("æ›´æ–°3");
+		System.out.println("æ–°çš„åˆ†æ”¯  new branch");
+		System.out.println("ä¸»çº¿æ·»åŠ ");
+		System.out.println("åˆ†æ”¯ æ·»åŠ ");
+		System.out.println("åˆ†æ”¯ å†æ·»åŠ ");
+		System.out.println("åˆ†æ”¯ å†å†æ·»åŠ ");
+		System.out.println("ä¸»çº¿ å†æ·»åŠ ");
+		System.out.println("åœ¨çº¿æ›´æ–°");
 
 	}
 
