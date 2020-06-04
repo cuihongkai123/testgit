@@ -14,6 +14,7 @@ public class AAA {
 		System.out.println("分支 再添加");
 		System.out.println("分支 再再添加");
 		System.out.println("主线 再添加");
+		System.out.println("第二次更新之前");
 
 	}
 
