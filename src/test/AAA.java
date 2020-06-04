@@ -6,6 +6,7 @@ public class AAA {
 		// TODO Auto-generated method stub
 		System.out.println("aaaaa");
 		System.out.println("更新1");
+		System.out.println("更新2");
 	
 	}
 
