@@ -12,6 +12,7 @@ public class AAA {
 		System.out.println("主线添加");
 		System.out.println("分支 添加");
 		System.out.println("分支 再添加");
+		System.out.println("主线 再添加");
 		
 	
 	}
