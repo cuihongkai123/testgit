@@ -31,6 +31,7 @@ public class AAA {
 		System.out.println("wyhjgfthd燂紵锛燂紵锛燂紵锛燂紵");
 		System.out.println("yyyyyyyygithub上的！！！！！！啊啊啊啊啊啊！！！！！");
 		System.out.println("hebing");System.out.println("hebing2222222233");
+		System.out.println("hebing");System.out.println("阿萨德");
 
 	}
 
