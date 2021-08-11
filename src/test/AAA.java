@@ -27,6 +27,7 @@ public class AAA {
 
 		System.out.println("github的！都有阿布！！！！！！！！！！");
 		System.out.println("wo shi kelong shangchuan？？？？？？？？？？？？？？？？？？？？？？？？？？");
+System.out.println("yyyyyyyygithub上的！！！！！！啊啊啊啊啊啊！！！！！");
 
 	}
 
