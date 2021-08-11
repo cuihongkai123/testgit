@@ -30,7 +30,7 @@ public class AAA {
 		System.out.println("wo shi kelong shangchuan锛燂紵锛燂紵锛燂紵锛燂紵锛燂紵锛燂紵锛燂紵锛燂紵锛燂紵锛燂紵锛燂紵锛燂紵锛燂紵");
 		System.out.println("wyhjgfthd燂紵锛燂紵锛燂紵锛燂紵");
 		System.out.println("yyyyyyyygithub上的！！！！！！啊啊啊啊啊啊！！！！！");
-		System.out.println("hebing");System.out.println("hebing2");
+		System.out.println("hebing");System.out.println("hebing2222222233");
 
 	}
 
